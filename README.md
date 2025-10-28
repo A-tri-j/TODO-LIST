@@ -27,6 +27,11 @@ This project helps you manage daily tasks efficiently — add, edit, delete, and
 | **LocalStorage API** | Save tasks locally in browser |
 
 ---
+## ⚙️ Installation & Usage
 
-## 📂 Folder Structure
+### Option 1: Run locally
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/todo-list.git
+
 
