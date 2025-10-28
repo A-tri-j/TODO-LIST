@@ -32,6 +32,6 @@ This project helps you manage daily tasks efficiently — add, edit, delete, and
 ### Option 1: Run locally
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/A-tri-j/todo-list.git
 
 
